@@ -1,0 +1,12 @@
+﻿<Window x:Class="WpfApplication1.AsyncCommand"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="AsyncCommand" Height="300" Width="300">
+    <Window.CommandBindings>
+        <CommandBinding Command="New" CanExecute="CanExecute" Executed="Executed"></CommandBinding>
+    </Window.CommandBindings>
+    <Grid>
+        <Button Name="Button" Command="New" Margin="0,0,10,203">开始执行</Button>
+        <TextBlock Name="TextBlock" Margin="0,139,0,63">执行等待</TextBlock>
+    </Grid>
+</Window>

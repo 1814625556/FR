@@ -1,0 +1,8 @@
+﻿<Window x:Class="WpfApplication1.MVVMWpfWin"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="MVVMWpfWinf" Height="300" Width="300">
+    <Grid>
+        <Button Command="{Binding MyCmd}" CommandParameter="hello!" Content="I have been bound to a command" HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Window>
