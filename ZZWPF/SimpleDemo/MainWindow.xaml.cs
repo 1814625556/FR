@@ -30,5 +30,13 @@ namespace SimpleDemo
                 visualTreeDisplay.Show();
             };
         }
+
+        private void Button_Click(object sender, RoutedEventArgs e)
+        {
+            //ForegroundSetting foregroundSettingWin=new ForegroundSetting();
+            //foregroundSettingWin.Owner = this;
+            ////foregroundSettingWin.ForegroundBrush=new SolidColorBrush(Colors.Beige);
+            //foregroundSettingWin.Show();
+        }
     }
 }

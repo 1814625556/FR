@@ -13,3 +13,20 @@ c:\Users\erdao\documents\visual studio 2012\Projects\ZZWPF\SimpleDemo\bin\Debug\
 c:\Users\erdao\documents\visual studio 2012\Projects\ZZWPF\SimpleDemo\bin\Debug\SimpleDemo.pdb
 c:\Users\erdao\documents\visual studio 2012\Projects\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.exe
 c:\Users\erdao\documents\visual studio 2012\Projects\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.pdb
+D:\FR\ZZWPF\SimpleDemo\bin\Debug\SimpleDemo.exe.config
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.exe
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.pdb
+D:\FR\ZZWPF\SimpleDemo\bin\Debug\SimpleDemo.exe
+D:\FR\ZZWPF\SimpleDemo\bin\Debug\SimpleDemo.pdb
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.csprojResolveAssemblyReference.cache
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\ForegroundSetting.baml
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\MainWindow.baml
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\VisualTreeDisplay.baml
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\ForegroundSetting.g.cs
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\MainWindow.g.cs
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\VisualTreeDisplay.g.cs
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\App.g.cs
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo_MarkupCompile.cache
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.g.resources
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.Properties.Resources.resources
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.csproj.GenerateResource.Cache

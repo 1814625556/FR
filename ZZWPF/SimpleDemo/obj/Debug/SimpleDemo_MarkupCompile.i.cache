@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-c:\Users\erdao\documents\visual studio 2012\Projects\ZZWPF\SimpleDemo\obj\Debug\
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\
 SimpleDemo
 none
 false
 DEBUG;TRACE
-c:\Users\erdao\documents\visual studio 2012\Projects\ZZWPF\SimpleDemo\App.xaml
-21391403688
+D:\FR\ZZWPF\SimpleDemo\App.xaml
+3-271416675
 
-10-278528294
+11-306082386
 12-1401562060
-MainWindow.xaml;VisualTreeDisplay.xaml;
+ForegroundSetting.xaml;MainWindow.xaml;VisualTreeDisplay.xaml;
 
 False
 
