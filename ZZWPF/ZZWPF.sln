@@ -7,11 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleDemo", "SimpleDemo\Si
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ComandDemo", "ComandDemo", "{B9458B3A-400D-47D2-82FE-1B10AD4366B5}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerCommand", "..\..\Demo\WPFCommand\CustomerCommand\CustomerCommand.csproj", "{9F31B28A-6D5B-4085-BFD7-F99D00A2BD00}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomerCommand", "CustomerCommand\CustomerCommand.csproj", "{9F31B28A-6D5B-4085-BFD7-F99D00A2BD00}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmCommand", "..\..\Demo\WPFCommand\MvvmCommand\MvvmCommand.csproj", "{F861CE2D-E122-4FCB-ACA6-0FFA4EF0E1FF}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MvvmCommand", "MvvmCommand\MvvmCommand.csproj", "{F861CE2D-E122-4FCB-ACA6-0FFA4EF0E1FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSimpleCommand", "..\..\Demo\WPFCommand\WPFCommand\WpfApplication1\WpfSimpleCommand.csproj", "{079F6131-3DB7-4218-87B8-30D6E8C57A6C}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfSimpleCommand", "WPFCommand\WpfApplication1\WpfSimpleCommand.csproj", "{079F6131-3DB7-4218-87B8-30D6E8C57A6C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
