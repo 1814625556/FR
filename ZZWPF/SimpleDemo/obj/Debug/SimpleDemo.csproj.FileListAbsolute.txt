@@ -32,3 +32,6 @@ D:\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.Properties.Resources.resources
 D:\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.csproj.GenerateResource.Cache
 D:\FR\ZZWPF\SimpleDemo\obj\Debug\Resources\Dictionary1.baml
 D:\FR\ZZWPF\SimpleDemo\obj\Debug\App.baml
+C:\Users\erdao\Desktop\FR\ZZWPF\SimpleDemo\bin\Debug\SimpleDemo.exe.config
+C:\Users\erdao\Desktop\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.exe
+C:\Users\erdao\Desktop\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.pdb
