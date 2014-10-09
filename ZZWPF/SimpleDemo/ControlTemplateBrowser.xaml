@@ -7,7 +7,11 @@
             <ColumnDefinition Width="*"></ColumnDefinition>
             <ColumnDefinition Width="2*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
-        <ListBox Name="ControlsListBox" Grid.Column="0" SelectionChanged="ControlsListBox_OnSelectionChanged"/>
-        <RichTextBox Name="ControlTemplateRichTextBox" Grid.Column="1"/>
+        <ScrollViewer Grid.Column="0">
+            <ListBox Name="ControlsListBox"  SelectionChanged="ControlsListBox_OnSelectionChanged"/>
+        </ScrollViewer>
+        <ScrollViewer Grid.Column="1">
+            <RichTextBox Name="ControlTemplateRichTextBox" />
+        </ScrollViewer>
     </Grid>
 </Window>

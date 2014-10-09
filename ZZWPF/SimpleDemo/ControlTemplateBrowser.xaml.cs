@@ -37,13 +37,13 @@ namespace SimpleDemo
 
             foreach (var type in assembly.GetTypes())
             {
-                if (type.IsSubclassOf(controlType)&&type.IsAbstract&&type.IsPublic)
+                if (type.IsSubclassOf(controlType)&&!type.IsAbstract&&type.IsPublic)
                 {
                     typeList.Add(type);
                 }
             }
 
-            typeList.Sort();
+            //typeList.Sort();
             ControlsListBox.ItemsSource = typeList;
         }
 
@@ -56,7 +56,7 @@ namespace SimpleDemo
                 ConstructorInfo info = type.GetConstructor(System.Type.EmptyTypes);
                 Control control = (Control) info.Invoke(null);
 
-                control.Visibility = Visibility.Collapsed;
+                control.Visibility = Visibility.Visible;
                 RootGrid.Children.Add(control);
 
                 ControlTemplate template = control.Template;
@@ -67,14 +67,13 @@ namespace SimpleDemo
                 XmlWriter writer = XmlWriter.Create(sb, settings);
                 XamlWriter.Save(template, writer);
 
+                ControlTemplateRichTextBox.Document.Blocks.Clear();
                 ControlTemplateRichTextBox.AppendText(sb.ToString());
                 RootGrid.Children.Remove(control);
             }
             catch (Exception ex)
             {
-                
-                 ControlTemplateRichTextBox.SelectAll();
-                ControlTemplateRichTextBox.Selection.Text = string.Empty;
+                ControlTemplateRichTextBox.Document.Blocks.Clear();
                 ControlTemplateRichTextBox.AppendText("Error:"+ex.Message);
             } 
         }
