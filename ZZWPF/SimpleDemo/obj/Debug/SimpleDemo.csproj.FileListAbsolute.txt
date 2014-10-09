@@ -30,3 +30,5 @@ D:\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo_MarkupCompile.cache
 D:\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.g.resources
 D:\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.Properties.Resources.resources
 D:\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.csproj.GenerateResource.Cache
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\Resources\Dictionary1.baml
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\App.baml
