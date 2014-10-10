@@ -53,3 +53,5 @@ C:\Users\erdao\Desktop\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.Properties.Resou
 C:\Users\erdao\Desktop\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.csproj.GenerateResource.Cache
 C:\Users\erdao\Desktop\FR\ZZWPF\SimpleDemo\obj\Debug\ControlTemplateBrowser.baml
 C:\Users\erdao\Desktop\FR\ZZWPF\SimpleDemo\obj\Debug\ControlTemplateBrowser.g.cs
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\ControlTemplateBrowser.baml
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\ControlTemplateBrowser.g.cs

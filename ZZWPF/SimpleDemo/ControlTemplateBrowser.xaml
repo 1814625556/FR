@@ -5,12 +5,14 @@
     <Grid Name="RootGrid">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="*"></ColumnDefinition>
+            <ColumnDefinition Width="Auto"></ColumnDefinition>
             <ColumnDefinition Width="2*"></ColumnDefinition>
         </Grid.ColumnDefinitions>
+        <GridSplitter Grid.Column="1"   HorizontalAlignment="Center" Width="10" Background="Beige"></GridSplitter>
         <ScrollViewer Grid.Column="0">
             <ListBox Name="ControlsListBox"  SelectionChanged="ControlsListBox_OnSelectionChanged"/>
         </ScrollViewer>
-        <ScrollViewer Grid.Column="1">
+        <ScrollViewer Grid.Column="2">
             <RichTextBox Name="ControlTemplateRichTextBox" />
         </ScrollViewer>
     </Grid>
