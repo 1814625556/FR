@@ -53,7 +53,7 @@ namespace SimpleDemo
             {
                 Type type = (Type) ControlsListBox.SelectedItem;
 
-                ConstructorInfo info = type.GetConstructor(System.Type.EmptyTypes);
+                ConstructorInfo info = type.GetConstructor(Type.EmptyTypes);
                 Control control = (Control) info.Invoke(null);
 
                 control.Visibility = Visibility.Visible;
@@ -69,7 +69,7 @@ namespace SimpleDemo
 
                 ControlTemplateRichTextBox.Document.Blocks.Clear();
                 ControlTemplateRichTextBox.AppendText(sb.ToString());
-                RootGrid.Children.Remove(control);
+                //RootGrid.Children.Remove(control);
             }
             catch (Exception ex)
             {
