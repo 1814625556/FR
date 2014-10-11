@@ -2,4 +2,73 @@
                     xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
     <ImageSource x:Key="SimpleDemo.ForegroundSetting.Foreground">pack://application:,,,/SimpleDemo;component/Resources/Image/Foreground.png</ImageSource>
+
+    <ControlTemplate TargetType="Button" x:Key="ButtonControlTemplate">
+        <Border Name="InnerBorder"  CornerRadius="3" BorderBrush="Orange" TextBlock.Foreground="Blue" BorderThickness="3" Background="Brown">
+            <ContentPresenter RecognizesAccessKey="True"/>
+        </Border>
+        <ControlTemplate.Triggers>
+            <EventTrigger RoutedEvent="MouseEnter">
+                <BeginStoryboard>
+                    <Storyboard>
+                        <ColorAnimation Storyboard.TargetName="InnerBorder" Storyboard.TargetProperty="Background.Color" To="BlueViolet" Duration="0:0:2"/>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+            <EventTrigger RoutedEvent="MouseLeave">
+                <BeginStoryboard>
+                    <Storyboard>
+                        <ColorAnimation  Storyboard.TargetName="InnerBorder" Storyboard.TargetProperty="Background.Color" Duration="0:0:2"/>
+                    </Storyboard>
+                </BeginStoryboard>
+            </EventTrigger>
+            <Trigger Property="IsPressed" Value="True">
+                <Setter Property="Background" Value="IndianRed" TargetName="InnerBorder"/>
+                <Setter Property="BorderBrush" Value="DarkKhaki" TargetName="InnerBorder"/>
+            </Trigger>
+        </ControlTemplate.Triggers>
+    </ControlTemplate>
+
+    <ControlTemplate TargetType="ListBox" x:Key="ListBoxControlTemplate">
+        <Border Background="{TemplateBinding Background}" BorderBrush="Brown" BorderThickness="3">
+            <ScrollViewer>
+                <ItemsPresenter/>
+            </ScrollViewer>
+        </Border>
+    </ControlTemplate>
+    <Style TargetType="ListBoxItem">
+        <Setter Property="Template">
+            <Setter.Value>
+                <ControlTemplate TargetType="ListBoxItem">
+                    <Border Name="InnerBorder"  Background="CadetBlue" BorderBrush="BlueViolet" BorderThickness="3">
+                        <ContentPresenter></ContentPresenter>
+                    </Border>
+                    <ControlTemplate.Triggers>
+                        <EventTrigger RoutedEvent="MouseEnter">
+                            <BeginStoryboard>
+                                <Storyboard TargetProperty="FontSize">
+                                    <DoubleAnimation To="20" Duration="0:0:2"></DoubleAnimation>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                        <EventTrigger RoutedEvent="MouseLeave">
+                            <BeginStoryboard>
+                                <Storyboard TargetProperty="FontSize">
+                                    <DoubleAnimation Duration="0:0:2"></DoubleAnimation>
+                                </Storyboard>
+                            </BeginStoryboard>
+                        </EventTrigger>
+                        <Trigger Property="IsMouseOver" Value="True">
+                            <Setter Property="BorderBrush" TargetName="InnerBorder" Value="CornflowerBlue"></Setter>
+                            <Setter Property="BorderThickness" TargetName="InnerBorder" Value="5"></Setter>
+                        </Trigger>
+                        <Trigger Property="IsSelected" Value="True">
+                            <Setter Property="FontSize" Value="30"></Setter>
+                            <Setter Property="Background" Value="Chartreuse"></Setter>
+                        </Trigger>
+                    </ControlTemplate.Triggers>
+                </ControlTemplate>
+            </Setter.Value>
+        </Setter>
+    </Style>
 </ResourceDictionary>

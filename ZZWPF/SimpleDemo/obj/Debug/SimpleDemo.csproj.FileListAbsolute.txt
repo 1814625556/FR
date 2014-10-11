@@ -55,3 +55,9 @@ C:\Users\erdao\Desktop\FR\ZZWPF\SimpleDemo\obj\Debug\ControlTemplateBrowser.baml
 C:\Users\erdao\Desktop\FR\ZZWPF\SimpleDemo\obj\Debug\ControlTemplateBrowser.g.cs
 D:\FR\ZZWPF\SimpleDemo\obj\Debug\ControlTemplateBrowser.baml
 D:\FR\ZZWPF\SimpleDemo\obj\Debug\ControlTemplateBrowser.g.cs
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\ButtonControlTemplate.baml
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\ButtonControlTemplate.g.cs
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\3DDemoPage.baml
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\3DDemoPage.g.cs
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\ListBoxControlTemplate.baml
+D:\FR\ZZWPF\SimpleDemo\obj\Debug\ListBoxControlTemplate.g.cs
