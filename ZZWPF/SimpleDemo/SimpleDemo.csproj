@@ -53,20 +53,41 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Compile Include="3DDemoPage.xaml.cs">
+      <DependentUpon>3DDemoPage.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="ButtonControlTemplate.xaml.cs">
+      <DependentUpon>ButtonControlTemplate.xaml</DependentUpon>
+    </Compile>
     <Compile Include="ControlTemplateBrowser.xaml.cs">
       <DependentUpon>ControlTemplateBrowser.xaml</DependentUpon>
     </Compile>
     <Compile Include="ForegroundSetting.xaml.cs">
       <DependentUpon>ForegroundSetting.xaml</DependentUpon>
     </Compile>
+    <Compile Include="ListBoxControlTemplate.xaml.cs">
+      <DependentUpon>ListBoxControlTemplate.xaml</DependentUpon>
+    </Compile>
     <Compile Include="VisualTreeDisplay.xaml.cs">
       <DependentUpon>VisualTreeDisplay.xaml</DependentUpon>
     </Compile>
+    <Page Include="3DDemoPage.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ButtonControlTemplate.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="ControlTemplateBrowser.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="ForegroundSetting.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="ListBoxControlTemplate.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
