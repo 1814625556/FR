@@ -32,7 +32,9 @@
     <ControlTemplate TargetType="ListBox" x:Key="ListBoxControlTemplate">
         <Border Background="{TemplateBinding Background}" BorderBrush="Brown" BorderThickness="3">
             <ScrollViewer>
-                <ItemsPresenter/>
+                <ItemsPresenter>
+          
+                </ItemsPresenter>
             </ScrollViewer>
         </Border>
     </ControlTemplate>

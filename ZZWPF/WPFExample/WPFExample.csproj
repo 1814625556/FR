@@ -57,6 +57,10 @@
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
+    <Page Include="Examples\Adorners_ResizingAdorner\Adorners_ResizingAdorner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Examples\Visual3D\Visual3D.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
@@ -72,6 +76,10 @@
     <Compile Include="Examples\3DOverview.xaml.cs">
       <DependentUpon>3DOverview.xaml</DependentUpon>
     </Compile>
+    <Compile Include="Examples\Adorners_ResizingAdorner\Adorners_ResizingAdorner.xaml.cs">
+      <DependentUpon>Adorners_ResizingAdorner.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Examples\Adorners_ResizingAdorner\ResizingAdorner.cs" />
     <Compile Include="Examples\Visual3D\Cone3D.cs" />
     <Compile Include="Examples\Visual3D\Cylinder3D.cs" />
     <Compile Include="Examples\Visual3D\Primitive3D.cs" />
