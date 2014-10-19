@@ -19,3 +19,11 @@ C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\WPFExample.exe
 C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\WPFExample.pdb
 C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\Adorners_ResizingAdorner\Adorners_ResizingAdorner.baml
 C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\Adorners_ResizingAdorner\Adorners_ResizingAdorner.g.cs
+C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\AnimateBasicValues.baml
+C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\Animate3DRotation.baml
+C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\BezierTimeExample\BezierTimeExample.baml
+C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\AnimateBasicValues.g.cs
+C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\Animate3DRotation.g.cs
+C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\BezierTimeExample\BezierTimeExample.g.cs
+C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\BindValidation\BindValidation.g.cs
+C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\BindValidation\BindValidation.baml

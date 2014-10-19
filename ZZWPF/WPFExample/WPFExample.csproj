@@ -53,11 +53,27 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </ApplicationDefinition>
+    <Page Include="Examples\AnimateBasicValues.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
     <Page Include="Examples\3DOverview.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
     <Page Include="Examples\Adorners_ResizingAdorner\Adorners_ResizingAdorner.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Examples\Animate3DRotation.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Examples\BezierTimeExample\BezierTimeExample.xaml">
+      <SubType>Designer</SubType>
+      <Generator>MSBuild:Compile</Generator>
+    </Page>
+    <Page Include="Examples\BindValidation\BindValidation.xaml">
       <SubType>Designer</SubType>
       <Generator>MSBuild:Compile</Generator>
     </Page>
@@ -69,6 +85,9 @@
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
     </Page>
+    <Compile Include="Examples\AnimateBasicValues.xaml.cs">
+      <DependentUpon>AnimateBasicValues.xaml</DependentUpon>
+    </Compile>
     <Compile Include="App.xaml.cs">
       <DependentUpon>App.xaml</DependentUpon>
       <SubType>Code</SubType>
@@ -80,6 +99,17 @@
       <DependentUpon>Adorners_ResizingAdorner.xaml</DependentUpon>
     </Compile>
     <Compile Include="Examples\Adorners_ResizingAdorner\ResizingAdorner.cs" />
+    <Compile Include="Examples\Animate3DRotation.xaml.cs">
+      <DependentUpon>Animate3DRotation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Examples\BezierTimeExample\BezierTimeExample.xaml.cs">
+      <DependentUpon>BezierTimeExample.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Examples\BindValidation\AgeRangeRule.cs" />
+    <Compile Include="Examples\BindValidation\BindValidation.xaml.cs">
+      <DependentUpon>BindValidation.xaml</DependentUpon>
+    </Compile>
+    <Compile Include="Examples\BindValidation\MyDataSource.cs" />
     <Compile Include="Examples\Visual3D\Cone3D.cs" />
     <Compile Include="Examples\Visual3D\Cylinder3D.cs" />
     <Compile Include="Examples\Visual3D\Primitive3D.cs" />
@@ -118,6 +148,19 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Resource Include="Examples\BezierTimeExample\sample_images\berries.jpg" />
+    <Resource Include="Examples\BezierTimeExample\sample_images\branches.png" />
+    <Resource Include="Examples\BezierTimeExample\sample_images\leafpicturecube2R000003.png" />
+    <Resource Include="Examples\BezierTimeExample\sample_images\leafpicturecube2R000005.png" />
+    <Resource Include="Examples\BezierTimeExample\sample_images\leaves_closeup.png" />
+    <Resource Include="Examples\BezierTimeExample\sample_images\rippled_metal_smaller.png" />
+    <Resource Include="Examples\BezierTimeExample\sample_images\rocks.jpg" />
+    <Resource Include="Examples\BezierTimeExample\sample_images\rocks.png" />
+    <Resource Include="Examples\BezierTimeExample\sample_images\Sunset.jpg" />
+    <Resource Include="Examples\BezierTimeExample\sample_images\Waterlilies.jpg" />
+    <Resource Include="Examples\BezierTimeExample\sample_images\Waterlilies.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

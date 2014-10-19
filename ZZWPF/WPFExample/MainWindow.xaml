@@ -7,6 +7,9 @@
             <Button>3DOverview</Button>
             <Button>Visual3D</Button>
             <Button>AdornersResizing</Button>
+            <Button>Animate3DRotation</Button>
+            <Button>AnimateBasicValues</Button>
+            <Button>BezierTimeExample</Button>
         </WrapPanel>
     </Grid>
 </Window>

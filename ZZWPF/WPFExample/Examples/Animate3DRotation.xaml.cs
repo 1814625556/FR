@@ -10,18 +10,16 @@ using System.Windows.Documents;
 using System.Windows.Input;
 using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
 using System.Windows.Shapes;
 
-namespace WPFExample
+namespace WPFExample.Examples
 {
-    //ClipPathExample
     /// <summary>
-    /// Interaction logic for MainWindow.xaml
+    /// Interaction logic for Animate3DRotation.xaml
     /// </summary>
-    public partial class MainWindow : Window
+    public partial class Animate3DRotation : Window
     {
-        public MainWindow()
+        public Animate3DRotation()
         {
             InitializeComponent();
         }
