@@ -27,3 +27,6 @@ C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\Animate3DRotation.
 C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\BezierTimeExample\BezierTimeExample.g.cs
 C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\BindValidation\BindValidation.g.cs
 C:\Users\erdao\Desktop\FR\ZZWPF\WPFExample\obj\Debug\Examples\BindValidation\BindValidation.baml
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\WPFExample\bin\Debug\WPFExample.exe.config
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\WPFExample\obj\Debug\WPFExample.exe
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\WPFExample\obj\Debug\WPFExample.pdb
