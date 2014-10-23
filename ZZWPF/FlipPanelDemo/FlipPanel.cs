@@ -21,7 +21,7 @@ namespace FlipPanelDemo
 {
     [TemplatePart(Name = "PART_FlipButton", Type = typeof(ToggleButton))]
     [TemplateVisualState(Name = "Normal", GroupName = "ViewStates")]
-    [TemplateVisualState(Name = "Flipped", GroupName = "ViewStates")]
+    [TemplateVisualState(Name = "Flipped", GroupName = "FocusStates")]
     public class FlipPanel:Control
     {
 
@@ -62,7 +62,34 @@ namespace FlipPanelDemo
         public static readonly DependencyProperty CornerRadiusProperty =
             DependencyProperty.Register("CornerRadius", typeof(CornerRadius), typeof(FlipPanel), null);
 
-        
-            
+
+        public override void OnApplyTemplate()
+        {
+            base.OnApplyTemplate();
+            var flipButton = GetTemplateChild("FlipButton") as ToggleButton;
+            if (flipButton!=null)
+            {
+                flipButton.Click += flipButton_Click;
+            }
+            ChangeVisualState(true);
+        }
+
+        void flipButton_Click(object sender, RoutedEventArgs e)
+        {
+            IsFliped = !IsFliped;
+            ChangeVisualState(true);
+        }
+
+        private void ChangeVisualState(bool useTransitions)
+        {
+            if (!IsFliped)
+            {
+                VisualStateManager.GoToState(this, "Normal", useTransitions);
+            }
+            else
+            {
+                VisualStateManager.GoToState(this, "Flipped", useTransitions);
+            }
+        }
     }
 }

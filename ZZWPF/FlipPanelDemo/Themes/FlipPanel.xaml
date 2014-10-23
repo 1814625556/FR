@@ -5,19 +5,26 @@
        <Setter Property="Template">
           <Setter.Value>
               <ControlTemplate>
+                  <Grid>
                   <VisualStateManager.VisualStateGroups>
                       <VisualStateGroup x:Name="ViewState">
                           <VisualState x:Name="Normal">
-                              
+                              <Storyboard>
+                                  <DoubleAnimation Storyboard.TargetName="BackContent" Storyboard.TargetProperty="Opacity" To="0.3" Duration="1"/>
+                              </Storyboard>
                           </VisualState>
                       </VisualStateGroup>
                       <VisualStateGroup x:Name="FocusStates">
-                          <VisualState x:Name="Flipped">
-                              
-                          </VisualState>
+                          <VisualTransition GeneratedDuration="0.8" To="Flipped"></VisualTransition>
+                                <VisualState x:Name="Flipped">
+                                    <Storyboard>
+                                        <DoubleAnimation Storyboard.TargetName="FlipButtonTransform" Storyboard.TargetProperty="Angle" To="90" Duration="1"/>
+                                        <DoubleAnimation Storyboard.TargetName="FrontContent" Storyboard.TargetProperty="Opacity" To="0.3" Duration="1"/>
+                                    </Storyboard>
+                                </VisualState>
                       </VisualStateGroup>
                   </VisualStateManager.VisualStateGroups>
-                  <Grid>
+                      
                       <Grid.RowDefinitions>
                             <RowDefinition Height="Auto"></RowDefinition>
                             <RowDefinition Height="Auto"></RowDefinition>

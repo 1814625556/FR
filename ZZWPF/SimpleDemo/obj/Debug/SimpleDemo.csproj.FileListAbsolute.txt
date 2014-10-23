@@ -70,3 +70,6 @@ C:\Users\erdao\Desktop\FR\ZZWPF\SimpleDemo\obj\Debug\ListBoxControlTemplate.g.cs
 C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\SimpleDemo\bin\Debug\SimpleDemo.exe.config
 C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.exe
 C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.pdb
+C:\Users\cvtpc\Desktop\FR\ZZWPF\SimpleDemo\bin\Debug\SimpleDemo.exe.config
+C:\Users\cvtpc\Desktop\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.exe
+C:\Users\cvtpc\Desktop\FR\ZZWPF\SimpleDemo\obj\Debug\SimpleDemo.pdb
