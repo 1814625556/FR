@@ -1,0 +1,11 @@
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\FlipPanelDemo\bin\Debug\FlipPanelDemo.exe.config
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\FlipPanelDemo\obj\Debug\FlipPanelDemo.csprojResolveAssemblyReference.cache
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\FlipPanelDemo\obj\Debug\MainWindow.baml
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\FlipPanelDemo\obj\Debug\Themes\generic.baml
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\FlipPanelDemo\obj\Debug\MainWindow.g.cs
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\FlipPanelDemo\obj\Debug\App.g.cs
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\FlipPanelDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\FlipPanelDemo\obj\Debug\FlipPanelDemo_MarkupCompile.cache
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\FlipPanelDemo\obj\Debug\FlipPanelDemo_MarkupCompile.lref
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\FlipPanelDemo\obj\Debug\FlipPanelDemo.exe
+C:\Users\erdao\Desktop\GITHUB\FR\ZZWPF\FlipPanelDemo\obj\Debug\FlipPanelDemo.pdb
