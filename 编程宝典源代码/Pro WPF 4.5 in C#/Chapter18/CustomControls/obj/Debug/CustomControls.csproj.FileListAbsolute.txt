@@ -1,0 +1,34 @@
+D:\Code\Pro WPF\Chapter18\CustomControls\bin\Debug\CustomControls.dll
+D:\Code\Pro WPF\Chapter18\CustomControls\bin\Debug\CustomControls.pdb
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\CustomControls.csprojResolveAssemblyReference.cache
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\ColorPickerUserControl.baml
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\themes\generic.baml
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\ColorPickerUserControl.g.cs
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\themes\Classic.baml
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\themes\ColorPicker.baml
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\themes\FlipPanel.baml
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\CustomControls.g.resources
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.Cache
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\CustomControls.dll
+D:\Code\Pro WPF\Chapter18\CustomControls\obj\Debug\CustomControls.pdb
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\bin\Debug\CustomControls.dll
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\bin\Debug\CustomControls.pdb
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\CustomControls.csprojResolveAssemblyReference.cache
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\ColorPickerUserControl.baml
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\themes\generic.baml
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\ColorPickerUserControl.g.cs
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\CustomControls_MarkupCompile.cache
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\CustomControls_MarkupCompile.lref
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\themes\Classic.baml
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\themes\ColorPicker.baml
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\themes\FlipPanel.baml
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\CustomControls.g.resources
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\CustomControls.Properties.Resources.resources
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\CustomControls.csproj.GenerateResource.Cache
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\CustomControls.dll
+C:\Users\erdao\Downloads\978-7-302-32773-8code\Pro WPF 4.5 in C#\Chapter18\CustomControls\obj\Debug\CustomControls.pdb
