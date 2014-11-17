@@ -6,3 +6,11 @@ D:\Code\Pro WPF\StoreDatabase\bin\Debug\StoreDatabase.pdb
 D:\Code\Pro WPF\StoreDatabase\obj\Debug\StoreDatabase.dll
 D:\Code\Pro WPF\StoreDatabase\obj\Debug\StoreDatabase.pdb
 D:\Code\Pro WPF\StoreDatabase\obj\Debug\StoreDatabase.csprojResolveAssemblyReference.cache
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\StoreDatabase\bin\Debug\store.xsd
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\StoreDatabase\bin\Debug\store.xml
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\StoreDatabase\bin\Debug\StoreDatabase.dll.config
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\StoreDatabase\bin\Debug\StoreDatabase.dll
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\StoreDatabase\bin\Debug\StoreDatabase.pdb
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\StoreDatabase\obj\Debug\StoreDatabase.csprojResolveAssemblyReference.cache
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\StoreDatabase\obj\Debug\StoreDatabase.dll
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\StoreDatabase\obj\Debug\StoreDatabase.pdb
