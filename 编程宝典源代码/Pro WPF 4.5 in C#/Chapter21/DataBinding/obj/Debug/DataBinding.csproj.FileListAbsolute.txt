@@ -27,3 +27,32 @@ D:\Code\Pro WPF\Chapter21\DataBinding\obj\Debug\DataBinding.Properties.Resources
 D:\Code\Pro WPF\Chapter21\DataBinding\obj\Debug\DataBinding.csproj.GenerateResource.Cache
 D:\Code\Pro WPF\Chapter21\DataBinding\obj\Debug\DataBinding.exe
 D:\Code\Pro WPF\Chapter21\DataBinding\obj\Debug\DataBinding.pdb
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\bin\Debug\DataBinding.exe.config
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\DataBinding.exe
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\DataBinding.pdb
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\bin\Debug\store.xsd
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\bin\Debug\store.xml
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\bin\Debug\DataBinding.exe
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\bin\Debug\DataBinding.pdb
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\bin\Debug\StoreDatabase.dll
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\bin\Debug\StoreDatabase.pdb
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\DataBinding.csprojResolveAssemblyReference.cache
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\GroupList.baml
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\FilterDataSet.baml
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\Menu.baml
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\GroupInRanges.g.cs
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\GroupList.g.cs
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\NavigateCollection.g.cs
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\FilterCollection.g.cs
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\FilterDataSet.g.cs
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\Menu.g.cs
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\App.g.cs
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\DataBinding_MarkupCompile.cache
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\DataBinding_MarkupCompile.lref
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\GroupInRanges.baml
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\NavigateCollection.baml
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\FilterCollection.baml
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\DataBinding.g.resources
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\DataBinding.Properties.Resources.resources
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter21\DataBinding\obj\Debug\DataBinding.csproj.GenerateResource.Cache

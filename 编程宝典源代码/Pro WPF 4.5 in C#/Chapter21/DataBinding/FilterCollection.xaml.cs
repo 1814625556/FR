@@ -86,7 +86,7 @@ namespace DataBinding
                 if (Decimal.TryParse(txtMinPrice.Text, out minimumPrice) && (filterer != null))
                 {
                     filterer.MinimumPrice = minimumPrice;
-                    //view.Refresh();
+                    view.Refresh();
                 }
             }
         }
