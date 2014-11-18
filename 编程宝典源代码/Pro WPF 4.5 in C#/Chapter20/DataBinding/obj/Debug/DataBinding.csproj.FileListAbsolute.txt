@@ -51,3 +51,4 @@ C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter
 C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter20\DataBinding\obj\Debug\DataBinding.csproj.GenerateResource.Cache
 C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter20\DataBinding\obj\Debug\DataBinding.exe
 C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter20\DataBinding\obj\Debug\DataBinding.pdb
+C:\Users\erdao\Desktop\GITHUB\FR\编程宝典源代码\Pro WPF 4.5 in C#\Chapter20\DataBinding\obj\Debug\DataBinding.csprojResolveAssemblyReference.cache
